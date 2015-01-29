@@ -1,0 +1,25 @@
+#banner {
+  background-image: url(../images/background.jpg);
+  color: white;
+  padding: 150px 0px;
+  background-size: cover;
+  height: 650px;
+}
+
+#banner h1 {
+  font-size: 50px;
+  color: white;
+  padding-left: 250px;
+  font-family: 'Gotham';
+}
+
+#banner p {
+  font-size: 25px;
+  font-weight: 100;
+  padding-left: 150px;
+  opacity:0.9;
+}
+
+#margin-l {
+  margin-left: 254px;
+}

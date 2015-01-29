@@ -1,0 +1,28 @@
+@import url("banner.css");
+@import url("footer.css");
+
+
+
+@font-face {
+  font-family: 'Gotham';
+  src: url('../fonts/GothamRounded-Medium.eot');
+  src: url('../fonts/gotham-rounded-medium.otf') format('truetype'),
+       url('../fonts/gotham-rounded-medium.woff') format('woff'),
+       url('../fonts/GothamRounded-Medium.eot?#iefix') format('embedded-opentype');
+}
+
+
+body {
+  font-family: 'Gotham', sans-serif;
+  color: #141414;
+}
+
+.padded {
+    padding-top: 8em;
+    padding-bottom: 8em;
+}
+
+.blue-bg {
+  background-color: #39ADD1;
+  color: #FFFFFF;
+}
